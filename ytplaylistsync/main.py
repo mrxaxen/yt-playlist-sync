@@ -1,0 +1,3 @@
+import YTPlaylistSync
+
+YTPlaylistSync.main()
